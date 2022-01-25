@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Markus Swarowsky
-- 👀 I’m interested in embedded software security and 
+- 👀 I’m interested in embedded software security and fuzzing
 - 🌱 I’m currently learning fuzzing embedded device
 
 <!---
